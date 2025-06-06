@@ -68,7 +68,9 @@ Repo: https://github.com/DragonOS-Community/DragonOS
 
 #### 任务
 
-- 参考 https://bbs.dragonos.org.cn/t/topic/460 （以及最新引入的系统调用注册表，参考https://github.com/DragonOS-Community/DragonOS/pull/1164）在 DragonOS 内添加一个新的系统调用，并在用户态成功调用
+- 参考 https://bbs.dragonos.org.cn/t/topic/460 （以及最新引入的系统调用注册表，
+  参考 https://github.com/DragonOS-Community/DragonOS/pull/1164 ）在 DragonOS
+  内添加一个新的系统调用，并在用户态成功调用
 - 寻找内核中行为与预期有出入的系统调用，建议寻找静态、接口不一致的错误
 
 #### 参考
