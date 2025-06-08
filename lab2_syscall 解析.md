@@ -4,11 +4,11 @@
 
 ## trace
 
-![ trace](./assets/ trace.png)
+![ trace](./assets/%20trace.png)
 
 ## sysinfo
 
-![ sysinfo](./assets/ sysinfo.png)
+![ sysinfo](./assets/%20sysinfo.png)
 
 
 
